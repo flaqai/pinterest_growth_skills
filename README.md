@@ -1,5 +1,7 @@
 # Pinterest Growth Skills
 
+**English** · [简体中文](README.zh-CN.md)
+
 Research Pinterest trends, plan Pins, and maintain boards with Codex. Start with what readers in your target market search for and save. Create Pins that give them something useful to keep and a clear next step on the linked product page.
 
 The repository includes [Pinterest Board Maintenance](pinterest-board-maintenance/SKILL.md), a Codex skill written in Simplified Chinese. Set the target market and language for each project.
