@@ -64,6 +64,4 @@ $pinterest-board-maintenance
 
 恢复已停止的操作需有明确指示。
 
-做手机壁纸时，可参考 [锁屏壁纸示例](references/phone-wallpaper-example.md)。
-
 维护技能时，按用户明确的长期要求更新通用流程。单次试验的数量、比例、工具和协作设置放在对应案例里。
